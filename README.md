@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [s3tools/s3cmd](https://github.com/s3tools/s3cmd), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 ## S3cmd tool for Amazon Simple Storage Service (S3)
 
 
